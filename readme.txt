@@ -1,0 +1,2 @@
+1.静态资源目录下必须引入WebUploader和对应的swf以及jQuery
+2.main.js进行插件的安装
